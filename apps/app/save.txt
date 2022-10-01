@@ -1,0 +1,1 @@
+C:/DRIVERS/ASUS System Control Interface V3/ASUSLinkRemote/AsusLinkRemote.exe,C:/DRIVERS/ASUS System Control Interface V3/ASUSLinkRemote/AsusLinkRemoteAgent.exe,C:/DRIVERS/ASUS System Control Interface V3/ASUSLinkRemote/AsusQualcommWiFiConf.exe,C:/Program Files/Git/git-cmd.exe,
